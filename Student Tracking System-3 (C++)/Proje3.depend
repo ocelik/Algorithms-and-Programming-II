@@ -1,0 +1,199 @@
+# depslib dependency file v1.0
+1370006225 source:c:\users\user\desktop\proje3\main.cpp
+	<iostream>
+	"stdlib.h"
+	<cstdio>
+	"String.h"
+	<iomanip>
+	"Tarih.h"
+	"Bilgisayar.h"
+	"Ogrenci.h"
+	"Ogrenci_Dizisi.h"
+
+1369854443 c:\users\user\desktop\proje3\string.h
+	<iostream>
+
+1369854499 source:c:\users\user\desktop\proje3\string.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	"String.h"
+
+1369855810 source:c:\users\user\desktop\proje3\tarih.cpp
+	<iostream>
+	<iomanip>
+	"Tarih.h"
+
+1369863832 c:\users\user\desktop\proje3\tarih.h
+	<iostream>
+
+1369835083 source:c:\users\user\desktop\proje3\bilgisayar.cpp
+	<iostream>
+	<iomanip>
+	"Bilgisayar.h"
+	"String.h"
+
+1369863832 c:\users\user\desktop\proje3\bilgisayar.h
+	"String.h"
+
+1369835083 source:c:\users\user\desktop\proje3\ogrenci.cpp
+	<iostream>
+	<iomanip>
+	"Bilgisayar.h"
+	"String.h"
+	"Tarih.h"
+	"Ogrenci.h"
+
+1369835083 c:\users\user\desktop\proje3\ogrenci.h
+	"Bilgisayar.h"
+	"String.h"
+	"Tarih.h"
+	<iostream>
+
+1370004629 source:c:\users\user\desktop\proje3\ogrenci_dizisi.cpp
+	<iostream>
+	"String.h"
+	"Ogrenci_Dizisi.h"
+	"Ogrenci.h"
+	"Tarih.h"
+	"Bilgisayar.h"
+
+1369835496 c:\users\user\desktop\proje3\ogrenci_dizisi.h
+	<iostream>
+	"Bilgisayar.h"
+	"String.h"
+	"Tarih.h"
+	"Ogrenci.h"
+
+1369835083 source:c:\users\user\desktop\05110000044\ogrenci.cpp
+	<iostream>
+	<iomanip>
+	"Bilgisayar.h"
+	"String.h"
+	"Tarih.h"
+	"Ogrenci.h"
+
+1369863832 c:\users\user\desktop\05110000044\bilgisayar.h
+	"String.h"
+
+1369854443 c:\users\user\desktop\05110000044\string.h
+	<iostream>
+
+1369863832 c:\users\user\desktop\05110000044\tarih.h
+	<iostream>
+
+1369835083 c:\users\user\desktop\05110000044\ogrenci.h
+	"Bilgisayar.h"
+	"String.h"
+	"Tarih.h"
+	<iostream>
+
+1370004629 source:c:\users\user\desktop\05110000044\ogrenci_dizisi.cpp
+	<iostream>
+	"String.h"
+	"Ogrenci_Dizisi.h"
+	"Ogrenci.h"
+	"Tarih.h"
+	"Bilgisayar.h"
+
+1369835496 c:\users\user\desktop\05110000044\ogrenci_dizisi.h
+	<iostream>
+	"Bilgisayar.h"
+	"String.h"
+	"Tarih.h"
+	"Ogrenci.h"
+
+1369854499 source:c:\users\user\desktop\05110000044\string.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	"String.h"
+
+1369855810 source:c:\users\user\desktop\05110000044\tarih.cpp
+	<iostream>
+	<iomanip>
+	"Tarih.h"
+
+1370006225 source:c:\users\user\desktop\05110000044\main.cpp
+	<iostream>
+	"stdlib.h"
+	<cstdio>
+	"String.h"
+	<iomanip>
+	"Tarih.h"
+	"Bilgisayar.h"
+	"Ogrenci.h"
+	"Ogrenci_Dizisi.h"
+
+1369835083 source:c:\users\user\desktop\05110000044\bilgisayar.cpp
+	<iostream>
+	<iomanip>
+	"Bilgisayar.h"
+	"String.h"
+
+1369835083 source:d:\onurhan genel\ceng\s2\alg-prg2\proje3\proje3 program yuklendi\05110000044\ogrenci.cpp
+	<iostream>
+	<iomanip>
+	"Bilgisayar.h"
+	"String.h"
+	"Tarih.h"
+	"Ogrenci.h"
+
+1369863832 d:\onurhan genel\ceng\s2\alg-prg2\proje3\proje3 program yuklendi\05110000044\bilgisayar.h
+	"String.h"
+
+1369854443 d:\onurhan genel\ceng\s2\alg-prg2\proje3\proje3 program yuklendi\05110000044\string.h
+	<iostream>
+
+1369863832 d:\onurhan genel\ceng\s2\alg-prg2\proje3\proje3 program yuklendi\05110000044\tarih.h
+	<iostream>
+
+1369835083 d:\onurhan genel\ceng\s2\alg-prg2\proje3\proje3 program yuklendi\05110000044\ogrenci.h
+	"Bilgisayar.h"
+	"String.h"
+	"Tarih.h"
+	<iostream>
+
+1370004629 source:d:\onurhan genel\ceng\s2\alg-prg2\proje3\proje3 program yuklendi\05110000044\ogrenci_dizisi.cpp
+	<iostream>
+	"String.h"
+	"Ogrenci_Dizisi.h"
+	"Ogrenci.h"
+	"Tarih.h"
+	"Bilgisayar.h"
+
+1369835496 d:\onurhan genel\ceng\s2\alg-prg2\proje3\proje3 program yuklendi\05110000044\ogrenci_dizisi.h
+	<iostream>
+	"Bilgisayar.h"
+	"String.h"
+	"Tarih.h"
+	"Ogrenci.h"
+
+1369854499 source:d:\onurhan genel\ceng\s2\alg-prg2\proje3\proje3 program yuklendi\05110000044\string.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	"String.h"
+
+1369855810 source:d:\onurhan genel\ceng\s2\alg-prg2\proje3\proje3 program yuklendi\05110000044\tarih.cpp
+	<iostream>
+	<iomanip>
+	"Tarih.h"
+
+1370006225 source:d:\onurhan genel\ceng\s2\alg-prg2\proje3\proje3 program yuklendi\05110000044\main.cpp
+	<iostream>
+	"stdlib.h"
+	<cstdio>
+	"String.h"
+	<iomanip>
+	"Tarih.h"
+	"Bilgisayar.h"
+	"Ogrenci.h"
+	"Ogrenci_Dizisi.h"
+
+1369835083 source:d:\onurhan genel\ceng\s2\alg-prg2\proje3\proje3 program yuklendi\05110000044\bilgisayar.cpp
+	<iostream>
+	<iomanip>
+	"Bilgisayar.h"
+	"String.h"
+
